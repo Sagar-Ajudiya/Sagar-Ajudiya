@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://github.com/Sagar-Ajudiya" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="sagar_ajudiya" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/sagar-ajudiya/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="sagar-ajudiya" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/sagar-ajudiya/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sagar-ajudiya" height="40" width="40" /></a>
 <a href="mailto:sagarajudiya000@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="sagar-ajudiya" height="40" width="40" /></a>
 </p>
 
