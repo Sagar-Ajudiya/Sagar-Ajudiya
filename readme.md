@@ -18,7 +18,7 @@
 <hr>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar-Ajudiya&show_icons=true&locale=en&layout=compact" alt="Sagar-Ajudiya" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Ajudiya&bg_color=0,000000,53346D&title_color=fff&text_color=fff" alt="Sagar-Ajudiya" />
 </p>
 
 <p>
