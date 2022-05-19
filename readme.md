@@ -18,8 +18,10 @@
 <hr>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Ajudiya&bg_color=eecda3,614385,2c3e50&title_color=fff&text_color=fff" alt="Sagar-Ajudiya" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Ajudiya&bg_color=32CD32,6082B6,2c3e50&title_color=fff&text_color=fff" alt="Sagar-Ajudiya" />
 </p>
+
+
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sagar-Ajudiya&show_icons=true&locale=en" alt="Sagar-Ajudiya" />
