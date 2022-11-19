@@ -10,11 +10,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" >
 <!-- <a href="https://twitter.com/sagar__ajudiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prince_02765" height="30" width="40" /></a> -->
-<a href="mailto:sagarajudiya000@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="sagar-ajudiya" height="30" width="30" /></a>
-<a href="https://github.com/Sagar-Ajudiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sagar-Ajudiya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagar-ajudiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-ajudiya" height="30" width="30" /></a>
+
+<a href="https://github.com/Sagar-Ajudiya" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="Sagar-Ajudiya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagar-ajudiya" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3128/3128329.png" height="30" width="40" /></a>
+<a href="mailto:sagarajudiya000@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="sagar-ajudiya" height="30" width="40" /></a>
+
 </p>
 
 
