@@ -30,7 +30,7 @@
 <hr>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Ajudiya&bg_color=32CD32,6082B6,2c3e50&title_color=fff&text_color=fff" alt="Sagar-Ajudiya" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Ajudiya&layout=compact" alt="Sagar-Ajudiya" />
 </p>
 
 
