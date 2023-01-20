@@ -1,6 +1,6 @@
 <h1 align="center"> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=yellow&size=40&center=true&width=500&height=60&lines=Hello%2C+Coders..!;)</br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=yellow&size=40&center=true&width=500&height=60&lines=Hello%2C+Community ..!;)</br>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=yellow&size=40&center=true&width=500&height=60&lines=I+am+Sagar+Ajudiya...;) 
 
 </h1>
